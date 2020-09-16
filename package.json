@@ -1,0 +1,27 @@
+{
+  "name": "curso-webcomponents-litelement",
+  "version": "1.0.0",
+  "description": "curso de primeros pasos de Web components y LitElement",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarinaHeras/Curso-WebComponents-LitElement.git"
+  },
+  "author": "Karina Heras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarinaHeras/Curso-WebComponents-LitElement/issues"
+  },
+  "homepage": "https://github.com/KarinaHeras/Curso-WebComponents-LitElement#readme",
+  "dependencies": {
+    "@graviton/dropdown": "^1.1.5",
+    "lit-element": "^2.4.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
